@@ -1,4 +1,11 @@
-# Getting Started with Create React App
+# Output:
+![Netflix_Clone](https://user-images.githubusercontent.com/54595695/181696228-71b1d867-a460-4eca-a1a8-743eba63a69f.png)
+
+
+
+![Netflix_Clone_2](https://user-images.githubusercontent.com/54595695/181696349-1f76e19b-ffce-4320-85a3-f0098250c906.png)
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
